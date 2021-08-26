@@ -1,7 +1,7 @@
 # Projeto: App para visualizar organições populares no Github usando React-Native #
 
 <p align="center">
-  <img src="logogit.jpeg" >
+  <img src="Logo.png" >
 </p>
 
   
