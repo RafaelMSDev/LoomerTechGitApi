@@ -1,7 +1,7 @@
 # Projeto: App para visualizar organições populares no Github usando React-Native #
 
 <p align="center">
-  <img src="./assets/68747470733a2f2f6861636b65726e6f6f6e2e636f6d2f696d616765732f677034733332706b2e6a7067.jpeg" >
+  <img src="68747470733a2f2f6861636b65726e6f6f6e2e636f6d2f696d616765732f677034733332706b2e6a7067.jpeg" >
 </p>
 
   
